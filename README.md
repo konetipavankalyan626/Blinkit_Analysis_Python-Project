@@ -28,3 +28,6 @@ Key challenges include:
 - Finding patterns that can improve **inventory planning** and **marketing strategies**.  
 Without structured analysis, valuable opportunities for business growth and optimization may be overlooked.  
 
+## Visualizations
+<Figure size 640x480 with 1 Axes><img width="515" height="409" alt="image" src="https://github.com/user-attachments/assets/5e9b5c50-3123-480a-8fcf-564ff5f3e62a" />
+
