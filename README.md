@@ -29,5 +29,7 @@ Key challenges include:
 Without structured analysis, valuable opportunities for business growth and optimization may be overlooked.  
 
 ## Visualizations
+
+## Total Sales by Fat Content
 <Figure size 640x480 with 1 Axes><img width="515" height="409" alt="image" src="https://github.com/user-attachments/assets/5e9b5c50-3123-480a-8fcf-564ff5f3e62a" />
 
