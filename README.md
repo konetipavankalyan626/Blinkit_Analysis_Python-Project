@@ -11,3 +11,10 @@ The project is designed for aspiring **Data Analysts** to showcase skills in:
 - Exploratory Data Analysis (EDA)
 - Data Visualization
 - Business Insights Generation
+
+## Tools & Libraries Used
+- **Python**
+- **Pandas** → Data cleaning and analysis  
+- **NumPy** → Numerical operations  
+- **Matplotlib & Seaborn** → Data visualization  
+- **Jupyter Notebook** → Interactive coding and visualization  
