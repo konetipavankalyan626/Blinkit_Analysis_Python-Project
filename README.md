@@ -52,23 +52,23 @@ Chart Type: Donut Chart
 
 # Findings & Conclusion
 
-The analysis of the Blinkit dataset reveals several key business insights:
+- The analysis of the Blinkit dataset reveals several key business insights:
 
-Item Fat Content: Low Fat and Regular items dominate sales, with only minor variations, indicating that both categories are equally important for inventory management.
+- Item Fat Content: Low Fat and Regular items dominate sales, with only minor variations, indicating that both categories are equally important for inventory management.
 
-Outlet Size Impact: Medium-sized outlets consistently generate the highest sales, suggesting they should be prioritized for expansion and investment.
+- Outlet Size Impact: Medium-sized outlets consistently generate the highest sales, suggesting they should be prioritized for expansion and investment.
 
-Outlet Type Performance: Supermarket Type 3 outlets emerge as the strongest contributors to revenue, followed by Grocery Stores, highlighting the importance of maintaining and supporting these formats.
+- Outlet Type Performance: Supermarket Type 3 outlets emerge as the strongest contributors to revenue, followed by Grocery Stores, highlighting the importance of maintaining and supporting these formats.
 
-Item Visibility: Higher item visibility does not always guarantee higher sales, suggesting that marketing strategies, promotions, and placement optimization play a crucial role.
+- Item Visibility: Higher item visibility does not always guarantee higher sales, suggesting that marketing strategies, promotions, and placement optimization play a crucial role.
 
  Overall, the findings suggest that Blinkit can maximize sales and profitability by:
 
-Focusing on medium-sized outlets.
+- Focusing on medium-sized outlets.
 
-Leveraging Supermarket Type 3 as a primary sales channel.
+- Leveraging Supermarket Type 3 as a primary sales channel.
 
-Optimizing product placement and promotions to increase sales of low-visibility items.
+- Optimizing product placement and promotions to increase sales of low-visibility items.
 
 
 
