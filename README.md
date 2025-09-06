@@ -35,15 +35,19 @@ In the competitive retail industry, businesses like **Blinkit** generate massive
 <Figure size 640x480 with 1 Axes><img width="515" height="409" alt="image" src="https://github.com/user-attachments/assets/5e9b5c50-3123-480a-8fcf-564ff5f3e62a" />
 
 # Total Sales by Fat Item Type
+Chart Type: Bar Chart.
 <Figure size 1000x600 with 1 Axes><img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/cdd1a589-af7f-4c69-88ab-037affc2fc78" />
 
 # Fat Content by Outlet For Total Sales
+Chart Type: Stacked Column Chart.
 <Figure size 800x500 with 1 Axes><img width="790" height="490" alt="image" src="https://github.com/user-attachments/assets/00b588a7-77a7-4994-93ef-4e3695b9c136" />
 
 # Total Sales by Outlet Establishment
+	Chart Type: Line Chart.
 <Figure size 900x500 with 1 Axes><img width="890" height="490" alt="image" src="https://github.com/user-attachments/assets/ac39b057-a656-44c9-aef4-85a353e722b9" />
 
 # Sales by outlet Size
+Chart Type: Donut Chart
 <Figure size 400x400 with 1 Axes><img width="374" height="390" alt="image" src="https://github.com/user-attachments/assets/2f41d975-904b-4b91-84f0-761e68c35924" />
 
 
