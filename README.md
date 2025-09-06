@@ -71,8 +71,7 @@ Chart Type: Donut Chart
 - Optimizing product placement and promotions to increase sales of low-visibility items.
 
   ## Author - Pavan Kalyan Koneti
-  🔗 LinkedIn
- | GitHub
+  This project is part of my portfolio, showcasing the Python-based data analysis and visualization skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
 
 
 
