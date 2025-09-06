@@ -22,15 +22,16 @@ The project is designed for aspiring **Data Analysts** to showcase skills in:
 ## Bussiness Requirements
 In the competitive retail industry, businesses like **Blinkit** generate massive amounts of sales and outlet data. However, raw data alone cannot provide actionable insights unless it is properly analyzed.  
 
-Key challenges include:  
-- Identifying which **outlet sizes** and **types** contribute most to revenue.  
-- Understanding the impact of **item visibility** and **fat content** on sales.  
-- Finding patterns that can improve **inventory planning** and **marketing strategies**.  
-Without structured analysis, valuable opportunities for business growth and optimization may be overlooked.  
+ # KPI’s Requirements
+1.Total Sales: The overall revenue generated from all items sold.
+2.Average Sales: The average revenue per sale.
+3.Number of Items: The total count of different items sold.
+4.Average Rating: The average customer rating for items sold.
 
 ## Visualizations
 
  # Total Sales by Fat Content
+ Chart Type: Donut Chart.
 <Figure size 640x480 with 1 Axes><img width="515" height="409" alt="image" src="https://github.com/user-attachments/assets/5e9b5c50-3123-480a-8fcf-564ff5f3e62a" />
 
 # Total Sales by Fat Item Type
