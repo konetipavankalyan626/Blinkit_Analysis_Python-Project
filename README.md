@@ -1,3 +1,3 @@
 # Blinkit Analysis in Python
 
-![Blinkit Logo](C:\Users\pc\Downloads\blinkit_logo.png)
+![Blinkit Logo](https://github.com/konetipavankalyan626/Blinkit_Analysis_Python-Project/blob/main/blinkit_logo.png)
