@@ -50,5 +50,25 @@ Chart Type: Stacked Column Chart.
 Chart Type: Donut Chart
 <Figure size 400x400 with 1 Axes><img width="374" height="390" alt="image" src="https://github.com/user-attachments/assets/2f41d975-904b-4b91-84f0-761e68c35924" />
 
+# Findings & Conclusion
+
+The analysis of the Blinkit dataset reveals several key business insights:
+
+Item Fat Content: Low Fat and Regular items dominate sales, with only minor variations, indicating that both categories are equally important for inventory management.
+
+Outlet Size Impact: Medium-sized outlets consistently generate the highest sales, suggesting they should be prioritized for expansion and investment.
+
+Outlet Type Performance: Supermarket Type 3 outlets emerge as the strongest contributors to revenue, followed by Grocery Stores, highlighting the importance of maintaining and supporting these formats.
+
+Item Visibility: Higher item visibility does not always guarantee higher sales, suggesting that marketing strategies, promotions, and placement optimization play a crucial role.
+
+ Overall, the findings suggest that Blinkit can maximize sales and profitability by:
+
+Focusing on medium-sized outlets.
+
+Leveraging Supermarket Type 3 as a primary sales channel.
+
+Optimizing product placement and promotions to increase sales of low-visibility items.
+
 
 
