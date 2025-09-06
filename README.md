@@ -70,8 +70,9 @@ Chart Type: Donut Chart
 
 - Optimizing product placement and promotions to increase sales of low-visibility items.
 
-  ## Author
-  Pavan Kalyan Koneti
+  ## Author - Pavan Kalyan Koneti
+  🔗 LinkedIn
+ | GitHub
 
 
 
