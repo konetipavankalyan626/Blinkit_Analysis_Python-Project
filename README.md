@@ -17,4 +17,15 @@ The project is designed for aspiring **Data Analysts** to showcase skills in:
 - **Pandas** → Data cleaning and analysis  
 - **NumPy** → Numerical operations  
 - **Matplotlib & Seaborn** → Data visualization  
-- **Jupyter Notebook** → Interactive coding and visualization  
+- **Jupyter Notebook** → Interactive coding and visualization
+
+## Bussiness Requirements
+In the competitive retail industry, businesses like **Blinkit** generate massive amounts of sales and outlet data. However, raw data alone cannot provide actionable insights unless it is properly analyzed.  
+
+Key challenges include:  
+- Identifying which **outlet sizes** and **types** contribute most to revenue.  
+- Understanding the impact of **item visibility** and **fat content** on sales.  
+- Finding patterns that can improve **inventory planning** and **marketing strategies**.  
+
+Without structured analysis, valuable opportunities for business growth and optimization may be overlooked.  
+
