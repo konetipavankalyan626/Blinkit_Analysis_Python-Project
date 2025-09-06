@@ -23,10 +23,10 @@ The project is designed for aspiring **Data Analysts** to showcase skills in:
 In the competitive retail industry, businesses like **Blinkit** generate massive amounts of sales and outlet data. However, raw data alone cannot provide actionable insights unless it is properly analyzed.  
 
  ## KPI’s Requirements
-1.Total Sales: The overall revenue generated from all items sold.
-2.Average Sales: The average revenue per sale.
-3.Number of Items: The total count of different items sold.
-4.Average Rating: The average customer rating for items sold.
+- Total Sales: The overall revenue generated from all items sold.
+- Average Sales: The average revenue per sale.
+- Number of Items: The total count of different items sold.
+- Average Rating: The average customer rating for items sold.
 
 ## Visualizations
 
