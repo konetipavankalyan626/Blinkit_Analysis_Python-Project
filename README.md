@@ -73,5 +73,7 @@ Chart Type: Donut Chart
   ## Author - Pavan Kalyan Koneti
   This project is part of my portfolio, showcasing the Python-based data analysis and visualization skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
 
+- Linkedin:https://www.linkedin.com/in/pavankalyan585/
+- Gmail:konetipavankalyan225@gmail.com
 
 
