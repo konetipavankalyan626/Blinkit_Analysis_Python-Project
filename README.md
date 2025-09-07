@@ -12,6 +12,10 @@ The project is designed for aspiring **Data Analysts** to showcase skills in:
 - Data Visualization
 - Business Insights Generation
 
+# Dataset
+The data for this project is sourced from the Kaggle dataset:
+Dataset Link: https://github.com/konetipavankalyan626/Blinkit_Analysis_Python-Project/edit/main/README.md
+
 ## Tools & Libraries Used
 - **Python**
 - **Pandas** → Data cleaning and analysis  
