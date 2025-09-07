@@ -14,7 +14,7 @@ The project is designed for aspiring **Data Analysts** to showcase skills in:
 
 # Dataset
 The data for this project is sourced from the Kaggle dataset:
-Dataset Link: https://github.com/konetipavankalyan626/Blinkit_Analysis_Python-Project/edit/main/README.md
+Dataset Link: https://github.com/konetipavankalyan626/Blinkit_Analysis_Python-Project
 
 ## Tools & Libraries Used
 - **Python**
